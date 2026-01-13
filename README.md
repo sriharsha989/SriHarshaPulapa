@@ -43,7 +43,7 @@ I take great satisfaction in being a composed, self-assured individual who enjoy
 ---
 
 ## **Connect with me on** :  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pulapasriharsha)
 
 ---
 
