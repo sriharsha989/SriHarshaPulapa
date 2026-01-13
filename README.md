@@ -1,118 +1,117 @@
-# Hi, I'm Sri Harsha Pulapa 👋  
-**Data Engineer | Cloud Data Platforms | Data Analytics**
+# Hi 👋, I am Sri Harsha Pulapa
 
-Data Engineering and Analytics professional with **5+ years of experience** designing scalable data pipelines, real-time analytics platforms, and BI solutions across **AWS, Azure, and Snowflake**. Passionate about cloud-native data architecture, automation, and data governance.
+A Data Engineering and Analytics professional with **5+ years of experience** designing scalable data pipelines, real-time analytics platforms, and business intelligence solutions across **AWS, Azure, and Snowflake**. My professional path is strongly focused on building cloud-native data architectures, enabling real-time insights, and modernizing enterprise data platforms.
 
----
-
-## 🔧 Core Expertise
-- End-to-end **ETL / ELT pipelines** (batch & streaming)
-- Cloud data platforms & modernization
-- Real-time analytics & predictive modeling
-- BI engineering & executive dashboards
-- Data governance, metadata & lineage automation
+I take great satisfaction in being a composed, self-assured individual who enjoys collaborating with cross-functional teams across engineering, analytics, and business domains. I possess strong communication skills and the ability to translate complex technical concepts into actionable insights, ensuring seamless execution and alignment across projects.
 
 ---
 
-## 🧰 Tech Stack
+## **Work Experience :** 
 
-### 💻 Programming
-**Python, SQL, T-SQL, Java, Shell, R, JSON, XML**
-
-### ☁️ Cloud & DevOps
-**AWS (S3, EC2, Lambda, Glue, Redshift, IAM, Athena)**  
-**Azure**, Terraform, CI/CD, GitHub Actions
-
-### ⚙️ Data Engineering
-**Apache Spark, Databricks, Airflow, Snowflake, Snowpipe, Snowpark**  
-**Informatica, Workato, Talend, Hive, Kafka, Kinesis, Flink**
-
-### 🗄 Databases & Warehousing
-Snowflake, Redshift, SQL Server, Oracle, MySQL, Teradata, Cassandra, Azure Synapse
-
-### 📊 BI & Analytics
-Power BI (DAX, Power Query), Tableau, AWS QuickSight, Looker
-
-### 🤖 ML & Advanced Analytics
-Regression, Classification, Time Series, NLP  
-**MLflow, SageMaker, Kubeflow, Snowflake Snowpark**
-
-### 🧩 Governance & Collaboration
-Git/GitHub, Collibra, Alation, Agile/Scrum
+1. **Data Engineer @ Logan Data Inc**, Westford, MA, USA *(Jan 2023 – Present)*  
+2. **Data Engineer @ DXC Technologies**, Bengaluru, India *(Jul 2020 – Jul 2022)*  
+3. **Data Engineer @ Techiemax**, Hyderabad, India *(Apr 2019 – Sep 2019)*  
+4. **Software Engineer Intern @ AspirevisionTech**, Bengaluru, India *(Apr 2018 – Aug 2018)*  
 
 ---
 
-## 💼 Professional Experience
+## **Education:**
 
-### **Logan Data Inc — Data Engineer**  
-*Jan 2023 – Present | Westford, MA*
+### 1. **Master of Science in Information Science**, University of North Texas, Denton, TX *(Aug 2022 – May 2024)*
 
-- Designed **real-time S3 → Snowflake pipelines** using Databricks, Spark, Workato, and Snowpipe.
-- Built **streaming analytics & predictive pipelines** using Snowpark, Kafka, Kinesis, and Spark Streaming.
-- Developed **ML pipelines** with Kubeflow, MLflow, and SageMaker for automated retraining and deployment.
-- Engineered **data quality & validation frameworks** using Python and SQL.
-- Built high-performance **Power BI & Tableau dashboards** with optimized DAX and Snowflake queries.
-- Automated infrastructure provisioning using **Terraform & GitHub Actions**.
-- Implemented **DBT incremental models**, Snowflake Streams, and Tasks for scalable analytics.
-- Led metadata automation using **custom Java connectors** for Collibra and Informatica.
-
-**Environment:** AWS, Snowflake, Databricks, Spark, Airflow, Kafka, Power BI, Tableau, DBT, Terraform
+#### Coursework:
+- Data Management and Database Design  
+- Data Engineering & Analytics  
+- Cloud Computing & Information Systems  
+- Data Warehousing & Business Intelligence  
+- Big Data Systems  
+- Metadata Management & Governance  
 
 ---
 
-### **DXC Technologies — Data Engineer**  
-*Jul 2020 – Jul 2022 | Bengaluru, India*
+### 2. **Bachelor of Technology in Computer Science and Engineering**, GITAM University, India *(Jul 2016 – Jun 2020)*
 
-- Built production-grade **ETL workflows** using Azure Data Factory and Snowflake.
-- Designed **dimensional models (SCD Type 2)** for enterprise analytics.
-- Automated batch pipelines with **Airflow, Python, and Snowflake Tasks**.
-- Delivered analytics using **Tableau, Redshift, RapidMiner, Looker**.
-- Implemented **streaming pipelines** using Kafka, Flink, and AWS Glue.
-- Led governance initiatives using **Collibra & Alation**.
-
----
-
-### **Techiemax — Data Engineer**  
-*Apr 2019 – Sep 2019 | Hyderabad, India*
-
-- Migrated enterprise datasets to **AWS S3**, improving storage efficiency by 30%.
-- Built real-time pipelines using **Kafka, Flink, Spark Structured Streaming**.
-- Designed event-driven architectures using **AWS Lambda & Kinesis**.
-- Automated CI/CD workflows and infrastructure using Terraform & CloudFormation.
+#### Relevant Coursework:
+- Database Management Systems  
+- Big Data Analytics  
+- Artificial Intelligence  
+- Data Structures & Algorithms  
+- Cloud Computing & Services  
+- Python & R Programming  
+- Management Information Systems  
 
 ---
 
-## 🎓 Education
-**Master of Science — Information Science**  
-University of North Texas, Denton, TX (2024)
-
-**Bachelor of Technology — Computer Science**  
-GITAM University, India (2020)
+## **Connect with me on** :  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
 
 ---
 
-## 📜 Certifications
-- SnowPro Core Certification  
-- Workato Automation Pro 1, 2 & 3  
-- Salesforce Administrator (ADM 201)
+## **Relevant Project Repositories:**
+
+| Project | Description |
+|-------|-------------|
+| **Real-Time Snowflake Analytics Platform** | Designed and implemented real-time AWS S3 → Snowflake pipelines using Databricks, Apache Spark, Snowpipe, and Snowpark, enabling scalable analytics and near real-time reporting |
+| **Streaming ML Pipeline** | Built cloud-native ML pipelines using Kubeflow, MLflow, and SageMaker for automated training, retraining, and deployment of predictive models |
+| **Enterprise BI Framework** | Developed high-performance Power BI and Tableau dashboards using optimized Snowflake queries, dimensional modeling, and DAX |
+| **Metadata Automation & Governance** | Automated metadata lineage and governance using custom Java connectors integrated with Collibra, Informatica, and Microsoft Teams |
+| **End-to-End ETL with Airflow & DBT** | Built scalable batch pipelines using Airflow orchestration, DBT incremental models, and Snowflake Streams & Tasks |
 
 ---
 
-## 📂 Featured Projects
-*(Pin these repos on your profile)*
+## **Technical Skills**
 
-- **Real-Time Snowflake Analytics Platform**
-- **Streaming ML Pipeline with Snowpark & SageMaker**
-- **Metadata Automation with Collibra & Informatica**
-- **Power BI Enterprise Analytics Framework**
-
----
-
-## 📫 Let’s Connect
-📧 **Email:** sriharsha.pulapa@outlook.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/pulapasriharsha/ 
-📍 Open to Data Engineering & Analytics Opportunities
+### **Languages :**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ---
 
-⭐ *Building scalable, governed, and intelligent data platforms*
+### **Libraries & Tools :**  
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017B75?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+---
+
+### **Databases :**
+![Snowflake](https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white)
+![Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### **Visualization and Analytics :**
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![QuickSight](https://img.shields.io/badge/AWS%20QuickSight-0052CC?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+---
+
+### **Cloud Platforms :**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+### **Functional Skills :**
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0099FF?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-003366?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-FF8800?style=for-the-badge)
+![Streaming Analytics](https://img.shields.io/badge/Streaming%20Analytics-6A5ACD?style=for-the-badge)
+![Data Governance](https://img.shields.io/badge/Data%20Governance-2E8B57?style=for-the-badge)
+
+---
+
+### **Other Tools :**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
